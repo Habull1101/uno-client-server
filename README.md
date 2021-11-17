@@ -1,1 +1,1 @@
-Game UNO use model Client - Server, use Java.
+Game UNO uses model Client - Server, uses Java.
